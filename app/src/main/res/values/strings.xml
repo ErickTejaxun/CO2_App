@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppGPS</string>
+    <string name="resume">Continuar Captura de posición.</string>
+    <string name="pause">Pausar captura de posición</string>
+    <string name="bluetoothOn">Conectar Bluetooth</string>
+    <string name="none_paired">Ningun dispositivo pudo ser emparejado</string>
+    <string name="resumeCO">Retomar captura datos CO</string>
+
+
+</resources>
